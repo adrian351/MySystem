@@ -1,0 +1,1 @@
+<td>${{ Sistema::dosDecimales($direccion->cost_por_env) }}</td>

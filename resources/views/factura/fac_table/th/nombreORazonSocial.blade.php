@@ -1,0 +1,1 @@
+<th>{{ __('NOM. O RAZÓN SOCIAL') }}</th>

@@ -1,0 +1,1 @@
+<td>${{ Sistema::dosDecimales($producto->prec_prove) }}</td>

@@ -1,0 +1,1 @@
+<th>{{ __('PEDIDO UNIFICADO') }}</th>

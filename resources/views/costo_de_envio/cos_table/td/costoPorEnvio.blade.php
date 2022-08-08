@@ -1,0 +1,1 @@
+<td>${{ Sistema::dosDecimales($costo_de_envio->cost_por_env) }}</td>

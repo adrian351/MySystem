@@ -1,0 +1,1 @@
+<td>${{ Sistema::dosDecimales($comprobante->cost_por_env_log) }}</td>

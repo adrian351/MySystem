@@ -1,0 +1,1 @@
+<td>{{ $direccion->del_o_munic }}</td>

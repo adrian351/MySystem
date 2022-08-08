@@ -1,0 +1,1 @@
+<td>{{ $costo_de_envio->for_loc }}</td>

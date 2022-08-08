@@ -1,0 +1,3 @@
+<?php
+/* ===================== [ RUTAS (TI) ] ===================== */
+Route::match(['GET', 'HEAD'],'', 'TecnologiaDeLaInformacion\TecnologiaDeLaInformacionController@index')->name('ti.index')->middleware('permission:soporte.index|soporte.show|soporte.edit|soporte.update|soporte.destroy|inventario.index|inventario.edit|inventario.create|inventario.show|inventario.destroy|inventario.archivo.store|inventario.archivo.destroy|inventario.historial.store|inventario.historial.show');

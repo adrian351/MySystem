@@ -1,0 +1,1 @@
+<td>{{ $producto->sku }}</td>

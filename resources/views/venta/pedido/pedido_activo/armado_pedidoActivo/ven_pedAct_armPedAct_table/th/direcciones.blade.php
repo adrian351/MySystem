@@ -1,0 +1,1 @@
+<th>{{ __('DIRECCIONES') }}</th>

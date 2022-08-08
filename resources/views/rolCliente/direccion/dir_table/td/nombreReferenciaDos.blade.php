@@ -1,0 +1,1 @@
+<td>{{ $direccion->nom_ref_dos }}</td>

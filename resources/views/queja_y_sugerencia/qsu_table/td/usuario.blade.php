@@ -1,0 +1,1 @@
+<td>{{ $queja_y_sugerencia->usuario->email_registro }}</td>

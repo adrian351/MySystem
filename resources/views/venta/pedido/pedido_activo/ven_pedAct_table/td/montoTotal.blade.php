@@ -1,0 +1,1 @@
+<td>${{ Sistema::dosDecimales($pedido->mont_tot_de_ped) }}</td>

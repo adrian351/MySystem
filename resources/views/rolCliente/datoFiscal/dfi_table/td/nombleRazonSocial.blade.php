@@ -1,0 +1,1 @@
+<td>{{ $dato_fiscal->nom_o_raz_soc }}</td>

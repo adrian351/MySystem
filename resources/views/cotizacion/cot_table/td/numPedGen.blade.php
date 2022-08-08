@@ -1,0 +1,1 @@
+<td>{{ $cotizacion->num_pedido_gen }}</td>

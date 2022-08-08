@@ -1,0 +1,3 @@
+<?php
+/* ===================== [ RUTAS (VENTAS) ] ===================== */
+Route::match(['GET', 'HEAD'],'', 'Venta\VentaController@index')->name('venta.index')->middleware('permission:venta.pedidoActivo.index|venta.pedidoActivo.show|venta.pedidoActivo.edit|venta.pedidoActivo.destroy|venta.pedidoActivo.armado.show|venta.pedidoActivo.armado.edit|venta.pedidoActivo.pago.create|venta.pedidoActivo.pago.show|venta.pedidoActivo.pago.edit|venta.pedidoTerminado.index|venta.pedidoTerminado.show');

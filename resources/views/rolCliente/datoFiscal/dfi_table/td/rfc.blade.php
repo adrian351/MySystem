@@ -1,0 +1,1 @@
+<td>{{ $dato_fiscal->rfc }}</td>

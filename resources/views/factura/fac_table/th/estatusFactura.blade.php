@@ -1,0 +1,1 @@
+<th>{{ __('EST. FACTURA') }}</th>

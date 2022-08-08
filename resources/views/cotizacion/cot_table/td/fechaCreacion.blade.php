@@ -1,0 +1,1 @@
+<td>{{ $cotizacion->created_at }}</td>

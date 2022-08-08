@@ -1,0 +1,1 @@
+<th>{{ __('FECHA DE ENTREGA') }}</th>

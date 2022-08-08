@@ -1,0 +1,55 @@
+/* ****************************************************** */
+/* ********************* [ PUBLIC ] ********************* */
+/* ****************************************************** */
+/* ===================== [ LAYOUTS.PUBLIC.DASHBOARD ] ===================== */
+.wrap-login100 {
+  width: 100%;
+  background: #fff;
+  overflow: hidden;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: stretch;
+  flex-direction: row-reverse;
+
+}
+.login100-more {
+  width: calc(100% - 560px);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  z-index: 1;
+}
+.login100-more::before {
+  content: "";
+  display: block;
+  position: absolute;
+  z-index: -1;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: rgba(0,0,0,0.1);
+}
+.login100-form {
+  width: 560px;
+  min-height: 100vh;
+  display: block;
+  background-color: #f7f7f7;
+  padding: 173px 55px 55px 55px;
+}
+/* ===================== [ GENERAL ] ===================== */
+@media screen and (max-width: 985px) {
+  .pantallaMax985px {
+    display:none;
+  }
+}
+@media screen and (min-width:985px) {
+  .pantallaMin985px {
+    display:none;
+  }
+}

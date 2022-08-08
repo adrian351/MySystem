@@ -1,0 +1,1 @@
+<strong>{{ __('Estatus logística') }}: </strong> @include('venta.pedido.pedido_activo.ven_pedAct_table.td.estatusLogistica')

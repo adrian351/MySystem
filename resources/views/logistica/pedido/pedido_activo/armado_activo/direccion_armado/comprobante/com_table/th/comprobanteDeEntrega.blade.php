@@ -1,0 +1,1 @@
+<th>{{ __('COM. ENTREGA') }}</th>

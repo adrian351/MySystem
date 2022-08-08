@@ -1,0 +1,1 @@
+<td>{{ $pago->form_de_pag }}</td>

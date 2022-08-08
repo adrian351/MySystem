@@ -1,0 +1,1 @@
+<th>{{ __('MONT. TOTAL') }}</th>

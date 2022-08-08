@@ -1,0 +1,1 @@
+<td>{{ $factura->rfc }}</td>

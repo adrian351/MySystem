@@ -1,0 +1,1 @@
+<th>{{ __('MET DE ENTREGA') }}</th>

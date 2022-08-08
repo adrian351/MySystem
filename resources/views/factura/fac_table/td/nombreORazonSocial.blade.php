@@ -1,0 +1,1 @@
+<td>{{ $factura->nom_o_raz_soc }}</td>

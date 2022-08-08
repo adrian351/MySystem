@@ -1,0 +1,1 @@
+<td>{{ $pedido->num_pedido }}</td>

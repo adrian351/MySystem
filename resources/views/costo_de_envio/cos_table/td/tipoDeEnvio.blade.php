@@ -1,0 +1,1 @@
+<td>{{ $costo_de_envio->tip_env }}</td>

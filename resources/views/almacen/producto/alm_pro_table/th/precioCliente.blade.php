@@ -1,0 +1,1 @@
+<th>{{ __('PRECIO CLIENTE') }}</th>

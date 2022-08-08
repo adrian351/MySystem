@@ -1,0 +1,1 @@
+<th>{{ __('COST. DE ENVÍO') }}</th>

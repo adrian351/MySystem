@@ -1,0 +1,1 @@
+<th>{{ __('STOCK NAUCALPAN') }}</th>

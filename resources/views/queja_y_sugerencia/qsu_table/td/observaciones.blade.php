@@ -1,0 +1,1 @@
+<td>{{ $queja_y_sugerencia->obs }}</td>

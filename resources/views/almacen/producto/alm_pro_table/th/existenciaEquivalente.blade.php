@@ -1,0 +1,1 @@
+<th>{{ __('EXISTENCIA EQUIVALENTE') }}</th>

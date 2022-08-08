@@ -1,0 +1,1 @@
+<th>{{ __('ESTATUS DE PAGO') }}</th>

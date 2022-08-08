@@ -1,0 +1,1 @@
+<th colspan="3">{{ __('ESTATUS DE VENTA') }}</th>

@@ -1,0 +1,1 @@
+<th>{{ __('NÚMERO DE PEDIDO') }}</th>

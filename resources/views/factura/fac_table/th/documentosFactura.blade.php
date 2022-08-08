@@ -1,0 +1,1 @@
+<th colspan="4">{{ __('DOCS') }}</th>

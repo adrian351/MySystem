@@ -1,0 +1,1 @@
+<td>{{ $direccion->met_de_entreg }}</td>

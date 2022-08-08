@@ -1,0 +1,1 @@
+<td>{{ $direccion->cod }}</td>

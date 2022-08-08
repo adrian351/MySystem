@@ -1,0 +1,1 @@
+<td>{{ $comprobante->met_de_entreg_de_log }}</td>
